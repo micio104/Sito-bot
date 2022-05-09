@@ -7,9 +7,9 @@ const owners = [
     {
         "id": "538629606929072140",
         "post": "Bot Creator",
-        "GHURL": "https://github.com/Hadi-Koubeissi",
+        "GHURL": "https://github.com/micio104",
         "InstaURL": "",
-        "YTURL": "https://www.youtube.com/channel/UCmO0xdpxQr7fX2Csth_2JOQ"
+        "YTURL": "https://www.youtube.com/channel/UCPSetsfJRUW7M_pHsXrXLAQ"
     }
 ]
 
